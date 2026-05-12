@@ -2,6 +2,9 @@
 #define MANUSIA_H
 using namespace std;
 
+#include "Jantung.h"
+
+
 class manusia {
 public:
     string name;
